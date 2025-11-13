@@ -1,4 +1,4 @@
-import 'package:jlcrypt/jlcrypt.dart';
+import 'package:jlcrypto/jlcrypto.dart';
 import 'package:test/test.dart';
 
 void main() {
